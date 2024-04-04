@@ -1,1 +1,1 @@
-# Full Stack FastAPI Template
+# Full Stack template
